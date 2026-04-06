@@ -1,5 +1,3 @@
-# LumiChat-
-LumiChat ✨ – A modern blush-pink AI chatbot built using HTML, CSS, and JavaScript. It features a clean UI, real-time messaging with Gemini API, and a fallback system to ensure smooth interaction even without API access.
 # LumiChat – Aesthetic AI Chatbot
 
 LumiChat is a modern, blush-pink themed AI chatbot designed with a clean and user-friendly interface. Built using HTML, CSS, and JavaScript, it integrates with the Gemini API to generate real-time responses and includes a fallback system for uninterrupted user experience.
