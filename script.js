@@ -1,6 +1,5 @@
-const API_KEY = "AIzaSyDGG1BT9A5vsh2k-4Dy7k0-y_UhACbJJl0"; // optional
 
-const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${API_KEY}`;
+
 
 const chatDisplay = document.getElementById("chat-box");
 const userInputField = document.getElementById("user-input");
